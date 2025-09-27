@@ -8,5 +8,4 @@ var twoSum = function(nums, target) {
         }
     }
 };
-let array=[2,7,11,15]
-twoSum(array,9)
+twoSum([2,7,11,15],9)
